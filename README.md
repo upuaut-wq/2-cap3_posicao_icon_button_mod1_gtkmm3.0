@@ -1,6 +1,14 @@
-# cap3_basico gtkmm 3.0
+# cap3_button_icon_image-gtkmm 3
 
 ## OBS : Este é um "caderno", as informações contidas neste arquivo são anotações pessoais e podem apresentar informações incorretas.
+
+## Perguntas respondidas:
+
+* Como posicionar icone em um botão?
+* Como esconder a borda de um botão?
+* Como um modelo de Gtk::RadioButton utilizando Gtk::Button?
+* Como adicionar flags aos botões?
+* Como criar sinais, ligar um sinal e um botão e realizar alterações de propriedades de widgets?
 
 ## APP
 

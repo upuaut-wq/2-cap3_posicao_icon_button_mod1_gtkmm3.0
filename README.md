@@ -71,4 +71,4 @@
     }
     ~~~
 
-    * _Observe que utilizei no if o método `this->m_btn2.get_state_flags() == 163`. Utilizei, pois, o método get_atate_flags não retorna o `Gtk::STATE_FLAG_CHECKED` que corresponde ao 2048. Ao imprimir o valor de retorno, temos o valor 163. Não sei dizer, até o momento se este retorno está correto ou ou não._ 
+    * _Observe que utilizei no if o método `this->m_btn2.get_state_flags() == 163`. Utilizei o valo 163, pois, o método get_state_flags não retorna o `Gtk::STATE_FLAG_CHECKED` que corresponde ao 2048. Ao imprimir o valor de retorno, temos o valor 163. Não sei dizer, até o momento se este retorno está correto ou ou não._ 
